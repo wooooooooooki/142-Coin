@@ -25,27 +25,27 @@
 ![2차 개념 스케치](https://github.com/SWP-Wooki/142-Coin/blob/master/0.2.PNG?raw=true)
 
 1. 무역회사 거래 대금 지불 요청
-From 무역회사
-to 140e Server
+* From 무역회사
+* to 140e Server
 
 2. 거래 대금 지불을 위한 Smart Contract 생성
-From 140e Server
-to BlockChain
+* From 140e Server
+* to BlockChain
 
 3. 거래 대금 결제
-From 무역회사
-to BlockChain
+* From 무역회사
+* to BlockChain
 
 4. 설정된 배분율에 따른 노동비 분배
-From Smart Contract
-to Employee 1
-to Employee 2 ...
+* From Smart Contract
+* to Employee 1
+* to Employee 2 ...
 
 5. 지불 완료 확인
-From 140e Server
-to BlockChain
+* From 140e Server
+* to BlockChain
 
 6. 노동비 Coin - 해당국가 통화 환전
-From 140e Server
-to Employee 1
-to Employee 2...
+* From 140e Server
+* to Employee 1
+* to Employee 2...
