@@ -19,6 +19,16 @@
 
 ## Soultion
 140e Coin은 노동자와 무역회사 사이의 중간 유통자를 제외하고, 직접적으로 연결하여 보상을 지급함으로서 공정 무역의 본질을 실현합니다. 기업은 140e Coin 기반의 공정무역 시스템을 이용한 인증 과정을 마케팅에 활용할 수 있습니다. 노동자는 직접적으로 제공되는 노동비를 통해 생활 수준을 향상할 수 있습니다. 
+## Road Map
+### 1단계
+* WhitePaper 작성
+* Etherium 기반 Token 발행
+* Smart Contract 
+
+### 2단계
+* 현지 뱅킹 업체에의 환전 기능 개발
+* 140e Coin 페이지 개발
+* 거래 대금 지불 과정 개발
 
 ## Action_0.1 Version
 ![1차 개념 스케치](https://github.com/SWP-Wooki/142-Coin/blob/master/0.1.PNG?raw=true)
